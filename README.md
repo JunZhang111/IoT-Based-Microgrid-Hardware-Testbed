@@ -13,6 +13,33 @@ Main features:
 
 --- 
 
+## Software Version
+
+| Software | Version |
+|-----------|----------|
+| **Matlab** | 2020b |
+| **CCS** | V12.7.1.00001 (TI compiler v22.6.1.LTS) |
+| **Ubuntu**| 22.04 LTS |
+ **python**| 3.11 |
+ **PyQt6, PySide6**| 6.7.2 |
+  **Paho-mqtt**| 2.1.0|
+  **pyserial**| 3.5|
+  **mosquitto**| 2.0.20|
+  
+
+---
+
+## Required Hardware
+
+- **Raspberry Pi:** 4*Raspberry Pi 5 (4G)
+- **DSP controller:** 4*LAUNCHXL-F28379D  
+- **Rounter:** 
+- **Others:**  
+  - A Windos or Linux PC for SCADA 
+  - Inductors, Capacitos for LC filter, feeders and loads
+  - Relay blocks, circuit breakers for load changes
+  - Banana cables,meter, oscilloscope ...
+
 ## Grid Level
 ![Grid Level1](Slide10.JPG)
 ![SystemPic](Slide11.JPG)
