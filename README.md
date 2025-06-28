@@ -36,9 +36,34 @@ Main features:
 - **Rounter:** 
 - **Others:**  
   - A Windos or Linux PC for SCADA 
-  - Inductors, Capacitos for LC filter, feeders and loads
+  - Inductors, Capacitos for LC filters, feeders and loads
   - Relay blocks, circuit breakers for load changes
-  - Banana cables,meter, oscilloscope ...
+  - Banana cables, meters, oscilloscope ...
+---
+
+## System Parameters
+| Source   | Inverter | DC Bus | LC Filter    |
+| -------- | -------- | ------ | ------------ |
+| DG 1 | 100VA    | 45V    | 0.56mH; 22μF |
+| DG 2 | 100VA    | 45V    | 0.56mH; 22μF |
+| DG 3 | 100VA    | 45V    | 0.56mH; 22μF |
+| DG 4 | 100VA    | 45V    | 0.56mH; 22μF |
+
+| Load          | Total Resistance | Inductance | Inductor DCR |
+| ------------- | ---------------- | ---------- | ------------ |
+| Load 1 (Z1)   | 10.08Ω (R + DCR) | 6.25mH ±1% | 2.08Ω        |
+| Load 2 (Z2)   | 28.34Ω (R + DCR) | 8.0mH ±1%  | 3.34Ω        |
+| Load 3 (Z3)   | 25.56Ω (R + DCR) | 1.8mH ±1%  | 0.85Ω        |
+| Load 4 (Z4.1) | 10.08Ω (R + DCR) | 6.25mH ±1% | 2.08Ω        |
+| Load 4 (Z4.2) | Adjustable: 10Ω  | -          | -            |
+
+| Feeder       | Total Resistance   | Inductance | Inductor DCR |
+| ------------ | ------------------ | ---------- | ------------ |
+| Feeder (Z12) | 0.13Ω (0.1Ω + DCR) | 3.3μH ±15% | 0.03Ω        |
+| Feeder (Z23) | 0.13Ω (0.1Ω + DCR) | 3.3μH ±15% | 0.03Ω        |
+| Feeder (Z34) | 0.13Ω (0.1Ω + DCR) | 3.3μH ±15% | 0.03Ω        |
+
+
 
 ## Grid Level
 ![Grid Level1](Slide10.JPG)
