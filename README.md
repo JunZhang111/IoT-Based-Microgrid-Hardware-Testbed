@@ -1,4 +1,9 @@
 # IoT-Based Microgrid Hardware Testbed
+**Author:** Jun Zhang   
+**Update:**  
+- June 2025 — First upload   
+
+---
 
 ### Main Features
 1. **IoT-based:** A microgrid testbed utilizing the Internet-of-Things (IoT) protocol (MQTT), well-suited for distributed systems.  
