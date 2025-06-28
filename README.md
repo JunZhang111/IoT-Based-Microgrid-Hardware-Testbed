@@ -86,10 +86,10 @@ Main features:
 ![Record](Slide15.JPG)
 ---    
 
-##  Implemented Algotithem
+##  Implemented Algorithm
 Droop control:
 [1] N. Pogaku, M. Prodanovic, and T. C. Green, "Modeling, Analysis and Testing of Autonomous Operation of an Inverter-Based Microgrid," *IEEE Transactions on Power Electronics*, vol. 22, no. 2, pp. 613–625, Mar. 2007.  
-Secondary control
-[2] S. M. Mohiuddin and J. Qi, "Optimal Distributed Control of AC Microgrids With Coordinated Voltage Regulation and Reactive Power Sharing," *IEEE Transactions on Smart Grid*, vol. 13, no. 3, pp. 1789–1800, May 2022.  
+Secondary control: 
+[2] V. Nasirian, Q. Shafiee, J. M. Guerrero, F. L. Lewis, and A. Davoudi, “Droop-free distributed control for AC microgrids,” IEEE Trans. Power Electron., vol. 31, no. 2, pp. 1600–1617, Feb. 2016
 ---  
     
