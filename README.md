@@ -1,4 +1,4 @@
-# IoT-Based-Microgrid-Testbed
+# IoT-Based Microgrid Hardware Testbed
 Main features: 
     1. IoT-based: A Microgrid Testbed based on Internet-of-things protocal (MQTT), which is good for distributed system.
     2. Authenticity: All the components are real hardware.
@@ -62,7 +62,7 @@ Main features:
 | Feeder (Z12) | 0.13Ω (0.1Ω + DCR) | 3.3μH ±15% | 0.03Ω        |
 | Feeder (Z23) | 0.13Ω (0.1Ω + DCR) | 3.3μH ±15% | 0.03Ω        |
 | Feeder (Z34) | 0.13Ω (0.1Ω + DCR) | 3.3μH ±15% | 0.03Ω        |
-
+---
 
 
 ## Grid Level
@@ -74,7 +74,13 @@ Main features:
 ![Control Level](Slide12.JPG)
 ---
 
+## SCADA
+![SCADA](Slide13.JPG)
+---
 
+## Communication
+![Communication](Slide14.JPG)
+---
 
     
     
