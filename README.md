@@ -51,9 +51,9 @@
 ## System Parameters
 
 ### Inverter and DC Bus
-Switching frequency: 20kHz
-DSP time step: 50 us
-Raspberry Pi time step: 0.025s
+- **Switching frequency:** 20kHz
+- **DSP time step**: 50 us
+- **Raspberry Pi time step:** 0.025s
 
 | Source   | Inverter Capacity | DC Bus Voltage | LC Filter Parameters |
 |----------|------------------|----------------|----------------------|
