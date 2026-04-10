@@ -2,6 +2,7 @@
 **Author:** Jun Zhang   
 **Update:**  
 - June 2025 — First upload   
+- April 2026 —  Add new publication based on this platform
 
 ---
 
@@ -120,5 +121,8 @@
 
 ### Secondary Control: Distributed Secondary Control  
 [2] V. Nasirian, Q. Shafiee, J. M. Guerrero, F. L. Lewis, and A. Davoudi, "Droop-Free Distributed Control for AC Microgrids," *IEEE Transactions on Power Electronics*, vol. 31, no. 2, pp. 1600–1617, Feb. 2016.
+
+### Resilient Distributed Secondary Control  
+[3] J. Zhang and J. Qi, "Virtual Agent and Optimal Communication Network Design for Microgrid Against DoS Attacks", IEEE Trans. Smart Grid, early access, Mar. 16, 2026, doi: 10.1109/TSG.2026.3674339.
 
 ---
