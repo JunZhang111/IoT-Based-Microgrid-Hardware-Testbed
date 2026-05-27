@@ -4,7 +4,7 @@
 - June 2025 — First upload   
 - April 2026 —  Add new publication based on this platform
 
-Video Demo: [Youtube](https://youtu.be/8DcBU6bw0T0)
+**Video Demo:** [Youtube](https://youtu.be/8DcBU6bw0T0)
 ---
 
 ## Implemented Algorithms and Related Papers
