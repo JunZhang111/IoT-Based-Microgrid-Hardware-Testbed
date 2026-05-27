@@ -6,6 +6,7 @@
 
 **Video Demo:** [Youtube](https://youtu.be/8DcBU6bw0T0)
 Please cite my paper if you get some help from this testbed: J. Zhang and J. Qi, "Virtual Agent and Optimal Communication Network Design for Microgrid Against DoS Attacks", IEEE Trans. Smart Grid, early access, Mar. 16, 2026, doi: 10.1109/TSG.2026.3674339.
+
 ---
 
 
