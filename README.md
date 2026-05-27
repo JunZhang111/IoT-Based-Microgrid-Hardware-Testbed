@@ -4,6 +4,20 @@
 - June 2025 — First upload   
 - April 2026 —  Add new publication based on this platform
 
+Video Demo: [Youtube](https://youtu.be/8DcBU6bw0T0)
+---
+
+## Implemented Algorithms and Related Papers
+
+### Primary Control: Droop Control  
+[1] N. Pogaku, M. Prodanovic, and T. C. Green, "Modeling, Analysis and Testing of Autonomous Operation of an Inverter-Based Microgrid," *IEEE Transactions on Power Electronics*, vol. 22, no. 2, pp. 613–625, Mar. 2007.
+
+### Secondary Control: Distributed Secondary Control  
+[2] V. Nasirian, Q. Shafiee, J. M. Guerrero, F. L. Lewis, and A. Davoudi, "Droop-Free Distributed Control for AC Microgrids," *IEEE Transactions on Power Electronics*, vol. 31, no. 2, pp. 1600–1617, Feb. 2016.
+
+### Attack Resilient Distributed Secondary Control  
+[3] J. Zhang and J. Qi, "Virtual Agent and Optimal Communication Network Design for Microgrid Against DoS Attacks", IEEE Trans. Smart Grid, early access, Mar. 16, 2026, doi: 10.1109/TSG.2026.3674339.
+
 ---
 
 ### Main Features
@@ -114,15 +128,4 @@
 
 ---
 
-## Implemented Algorithms
 
-### Primary Control: Droop Control  
-[1] N. Pogaku, M. Prodanovic, and T. C. Green, "Modeling, Analysis and Testing of Autonomous Operation of an Inverter-Based Microgrid," *IEEE Transactions on Power Electronics*, vol. 22, no. 2, pp. 613–625, Mar. 2007.
-
-### Secondary Control: Distributed Secondary Control  
-[2] V. Nasirian, Q. Shafiee, J. M. Guerrero, F. L. Lewis, and A. Davoudi, "Droop-Free Distributed Control for AC Microgrids," *IEEE Transactions on Power Electronics*, vol. 31, no. 2, pp. 1600–1617, Feb. 2016.
-
-### Attack Resilient Distributed Secondary Control  
-[3] J. Zhang and J. Qi, "Virtual Agent and Optimal Communication Network Design for Microgrid Against DoS Attacks", IEEE Trans. Smart Grid, early access, Mar. 16, 2026, doi: 10.1109/TSG.2026.3674339.
-
----
